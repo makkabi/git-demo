@@ -3,6 +3,6 @@ function feature() {
 }
 
 function newFeature(a, b) {
-  console.log('New!');
+  console.log('New thing!!');
   console.log(a + b);
 }
