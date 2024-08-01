@@ -4,7 +4,7 @@ function feature() {
 
 function newFeature(a, b) {
   console.log('New!');
-  console.log(a + b);
+  console.log(a + b * 2);
 }
 
 function anotherFeature() {
