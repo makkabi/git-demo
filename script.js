@@ -4,5 +4,9 @@ function feature() {
 
 function newFeature(a, b) {
   console.log('New thing!!');
-  console.log(a + b);
+  console.log(a + b * 2);
+}
+
+function anotherFeature() {
+  console.log('Another');
 }
