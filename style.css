@@ -1,3 +1,8 @@
 body {
   font-size: 120%;
 }
+
+h1 {
+  text-transform: uppercase;
+  max-width: 40ch;
+}
