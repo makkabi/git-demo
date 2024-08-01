@@ -2,7 +2,7 @@ function feature() {
   console.log('Feature!');
 }
 
-function newFeature(a) {
+function newFeature(a, b) {
   console.log('New!');
-  console.log(a);
+  console.log(a + b);
 }
