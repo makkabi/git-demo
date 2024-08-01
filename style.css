@@ -2,3 +2,9 @@ h1 {
   text-transform: uppercase;
   max-width: 40ch;
 }
+
+.product {
+  display: block;
+  color: papayawhip;
+  border: 2px solid gold;
+}
